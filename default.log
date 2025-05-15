@@ -1,0 +1,105 @@
+2025.05.12, 18:03:02.0078 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 18:03:10.0274 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 18:03:12.0474 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 18:05:51.0901 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 18:05:53.0081 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 18:05:55.0254 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 18:06:09.0729 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 18:07:05.0910 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 18:07:07.0100 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 19:27:39.0672 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 19:27:40.0853 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 19:27:43.0083 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 19:27:47.0326 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 19:29:07.0025 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 19:29:08.0217 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 19:29:10.0412 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 19:29:14.0616 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 19:30:43.0999 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.12, 19:30:45.0205 UTC ->  510 - Erro execucao do script 
+      SELECT * FROM ETL_PRODUTOS GROUP BY COD_PROD
+       ,SequelizeDatabaseError: Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'boletim_eletronico.ETL_PRODUTOS.SK_PRODUTOS' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by 
+2025.05.13, 13:20:54.0393 UTC -> 510 - Erro execucao do script 
+      INSERT INTO FT_ITEM_STEP 
+       ,SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2025.05.13, 13:53:16.0850 UTC -> 510 - Erro execucao do script 
+      INSERT INTO FT_ITEM_STEP (SK_STEP,SK_FORMULARIO,VALOR,INICIO,FIM,SK_USUARIO) (1,14,'17000',null,null,1450),(1,17,'2025-04-12',null,null,1450),(1,15,null,'08:45','09:45',1450),(1,7,'110010036',null,null,1450),(1,8,'25mar27m5',null,null,1450),(1,9,'2',null,null,1450),(1,11,'samfflit',null,null,1450),(1,10,'17000',null,null,1450)
+       ,SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1,14,'17000',null,null,1450),(1,17,'2025-04-12',null,null,1450),(1,15,null,'08:4' at line 1
+2025.05.13, 19:24:47.0889 UTC -> 510 - Erro execucao do script 
+      INSERT INTO FT_ITEM_STEP (SK_STEP,SK_FORMULARIO,VALOR,INICIO,FIM,TOTAL,SK_USUARIO,SK_CABECALHO_STEP) VALUES 
+          (3,3,
+          null,
+          '12:00',
+          '14:00',
+          '02:00',
+          null,
+          1450)
+       ,SequelizeDatabaseError: Unknown column 'SK_CABECALHO_STEP' in 'field list'
+2025.05.14, 13:31:49.0747 UTC ->  510 - Erro execucao do script 
+      SELECT 
+        FT.SK_CABECALHO_STEP,
+        DC.DS_STEP,
+        DF.SK_FORMULARIO,
+        DF.DS_CAMPO,
+        DF.SK_TIPO_CAMPO,
+        DF.REF_INICIO,
+        DF.REF_FIM,
+        DF.AGRUPAMENTO,
+        DF.DD_ORDENACAO,
+        DF.DD_UM,
+        DF.REF_TABELA,
+        DF.CAMPO_REF_TABELA,
+        DF.OBRIGATORIO,
+        DF.DD_TOTAL_REGISTROS, 
+        DF.REF_CAMPO_CONDICAO, 
+        DF.TIPO_INFORMACAO
+        CASE
+          WHEN DF.REF_CAMPO_CONDICAO IS NOT NULL
+              AND DF.REF_VALOR_CONDICAO IS NULL
+          THEN (SELECT NK_PRODUTO FROM DIM_CABECALHO_BOLETIM WHERE SK_CABECALHO_BOLETIM = 1)
+          ELSE DF.REF_VALOR_CONDICAO
+        END AS REF_VALOR_CONDICAO
+      FROM FT_STEP FT
+      LEFT JOIN DIM_CABECALHO_STEP DC ON FT.SK_CABECALHO_STEP = DC.SK_CABECALHO_STEP
+      LEFT JOIN DIM_FORMULARIO DF ON FT.SK_STEP = DF.SK_STEP
+      WHERE FT.SK_TIPO_BOLETIM = 1 AND FT.D_E_L_E_T_ IS NULL AND DC.D_E_L_E_T_ IS NULL AND DF.D_E_L_E_T_ IS NULL
+      ORDER BY DF.DD_ORDENACAO ASC
+       ,SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CASE
+          WHEN DF.REF_CAMPO_CONDICAO IS NOT NULL
+              AND DF.REF_V' at line 18 

@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "boletim_eletronico",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "qa": {
+    "username": "BSOLUTIONS",
+    "password": "Ccipcorp2020",
+    "database": "boletim_eletronico",
+    "host": "bsolutions-dev.c60xvtajzw5n.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "BSOLUTIONS",
+    "password": "Ccipcorp2020",
+    "database": "boletim_eletronico",
+    "host": "bsolutions-prd.c60xvtajzw5n.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}

@@ -1,0 +1,196 @@
+[2025-05-08T20:02:22.825Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:02:22.832Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:04:06.039Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:04:06.043Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:05:23.581Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:05:23.584Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:07:19.936Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:07:19.940Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:08:40.977Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:08:40.984Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:10:53.265Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:10:53.270Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:17:48.501Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:17:48.504Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:18:56.239Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:18:56.243Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:20:27.008Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:20:27.013Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:22:24.673Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:22:24.676Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:26:30.322Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:26:30.324Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:29:16.975Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:29:16.980Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:30:28.188Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:30:28.191Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:31:28.062Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:31:28.066Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:32:16.806Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:32:16.811Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:33:58.717Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:33:58.720Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:35:16.226Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:35:16.228Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:36:25.979Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:36:25.981Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:38:24.148Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:38:24.151Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-08T20:41:18.723Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-08T20:41:18.727Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T11:38:26.387Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T11:38:26.392Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T12:03:35.174Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T12:03:35.179Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T12:04:04.347Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T12:04:04.350Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T12:07:05.732Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T12:07:05.735Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T12:23:02.869Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T12:23:02.874Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T12:26:57.149Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T12:26:57.154Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T12:28:12.985Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T12:28:12.991Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T12:31:45.260Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T12:31:45.262Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T12:37:13.086Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T12:37:13.089Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T12:39:50.581Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T12:39:50.584Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T12:44:33.629Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T12:44:33.632Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T12:45:52.733Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T12:45:52.735Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T12:57:39.673Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T12:57:39.675Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T12:58:53.520Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T12:58:53.522Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T12:59:31.357Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T12:59:31.359Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T13:00:36.804Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:00:36.808Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T13:02:59.557Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:02:59.561Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T13:04:16.539Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:04:16.545Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T13:05:34.340Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:05:34.343Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T13:05:36.491Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:05:36.494Z] info: Executing (default): INSERT INTO DIM_CABECALHO_BOLETIM (NK_PRODUTO, DD_SALA, NM_FABRICO, NM_ORDEM_FABRICACAO, NM_FMT, NM_BATCH_CONTROL, SK_FILIAL, SK_TIPO_BOLETIM, SK_USUARIO) VALUES ("110010035", "3", "576", "1", "2", "2", "302030", "1", "1450")
+[2025-05-09T13:06:24.228Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:06:24.232Z] info: Executing (default): INSERT INTO DIM_CABECALHO_BOLETIM (NK_PRODUTO, DD_SALA, NM_FABRICO, NM_ORDEM_FABRICACAO, NM_FMT, NM_BATCH_CONTROL, SK_FILIAL, SK_TIPO_BOLETIM, SK_USUARIO) VALUES ("110010035", "2", "5412", "2", "23", "21", "302030", "1", "1450")
+[2025-05-09T13:06:49.841Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:06:49.855Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T13:07:07.920Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:07:07.925Z] info: Executing (default): INSERT INTO DIM_CABECALHO_BOLETIM (NK_PRODUTO, DD_SALA, NM_FABRICO, NM_ORDEM_FABRICACAO, NM_FMT, NM_BATCH_CONTROL, SK_FILIAL, SK_TIPO_BOLETIM, SK_USUARIO) VALUES ("110020001", "1", "321", "1", "2331", "2122", "302030", "1", "1450")
+[2025-05-09T13:07:41.727Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:07:41.730Z] info: Executing (default): INSERT INTO DIM_CABECALHO_BOLETIM (NK_PRODUTO, DD_SALA, NM_FABRICO, NM_ORDEM_FABRICACAO, NM_FMT, NM_BATCH_CONTROL, SK_FILIAL, SK_TIPO_BOLETIM, SK_USUARIO) VALUES ("110020002", "2", "21212", "12", "213e", "12", "302030", "1", "1450")
+[2025-05-09T13:09:39.776Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:09:39.779Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T13:10:46.693Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:10:46.697Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T13:11:46.635Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:11:46.640Z] info: Executing (default): INSERT INTO DIM_CABECALHO_BOLETIM (NK_PRODUTO, DD_SALA, NM_FABRICO, NM_ORDEM_FABRICACAO, NM_FMT, NM_BATCH_CONTROL, SK_FILIAL, SK_TIPO_BOLETIM, SK_USUARIO) VALUES ("110020001 - LUPULO MAGNUM ACIDEZ", "3", "21", "121", "212", "212", "302030", "1", "1450")
+[2025-05-09T13:12:18.783Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:12:18.786Z] info: Executing (default): INSERT INTO DIM_CABECALHO_BOLETIM (NK_PRODUTO, DD_SALA, NM_FABRICO, NM_ORDEM_FABRICACAO, NM_FMT, NM_BATCH_CONTROL, SK_FILIAL, SK_TIPO_BOLETIM, SK_USUARIO) VALUES ("110020003 - LUPULO TRADITION", "2", "21212", "212", "2121", "2121", "302030", "1", "1450")
+[2025-05-09T13:13:04.482Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:13:04.484Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T13:13:12.280Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:13:12.282Z] info: Executing (default): INSERT INTO DIM_CABECALHO_BOLETIM (NK_PRODUTO, DD_SALA, NM_FABRICO, NM_ORDEM_FABRICACAO, NM_FMT, NM_BATCH_CONTROL, SK_FILIAL, SK_TIPO_BOLETIM, SK_USUARIO) VALUES ("110020002 - LUPULO HALLERTAUER MITTELFRUH T-45", "1", "21", "1212", "1212", "212", "302030", "1", "1450")
+[2025-05-09T13:14:12.393Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:14:12.396Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T13:14:30.800Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:14:30.803Z] info: Executing (default): INSERT INTO DIM_CABECALHO_BOLETIM (NK_PRODUTO, DD_SALA, NM_FABRICO, NM_ORDEM_FABRICACAO, NM_FMT, NM_BATCH_CONTROL, SK_FILIAL, SK_TIPO_BOLETIM, SK_USUARIO) VALUES ("110020002 - LUPULO HALLERTAUER MITTELFRUH T-45", "2", "21", "2", "2", "2", "302030", "1", "1450")
+[2025-05-09T13:15:20.954Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:15:20.956Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T13:15:25.084Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:15:25.090Z] info: Executing (default): INSERT INTO DIM_CABECALHO_BOLETIM (NK_PRODUTO, DD_SALA, NM_FABRICO, NM_ORDEM_FABRICACAO, NM_FMT, NM_BATCH_CONTROL, SK_FILIAL, SK_TIPO_BOLETIM, SK_USUARIO) VALUES ("110010035 - MALTE CARAMELO MEDIO", "2", "21", "2", "2", "2", "302030", "1", "1450")
+[2025-05-09T13:36:10.706Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:36:10.712Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T13:36:44.154Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:36:44.158Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T13:37:10.629Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:37:10.631Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T13:38:15.542Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:38:15.545Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T13:38:36.707Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:38:36.717Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T13:41:49.400Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:41:49.403Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T13:43:53.521Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:43:53.524Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T13:46:03.104Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:46:03.108Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T13:46:33.557Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:46:33.562Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T13:47:12.131Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:47:12.135Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T13:48:51.062Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:48:51.073Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T13:50:18.172Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:50:18.174Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T13:52:36.377Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:52:36.380Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T13:57:36.979Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T13:57:36.982Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T14:01:07.738Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T14:01:07.741Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T14:01:21.262Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T14:01:21.264Z] info: Executing (default): SELECT * FROM ETL_PRODUTOS
+[2025-05-09T14:02:58.948Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T14:02:58.950Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T14:06:38.961Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T14:06:38.964Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T14:07:43.864Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T14:07:43.866Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T14:19:55.596Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T14:19:55.599Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T14:21:23.575Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T14:21:23.577Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T14:23:11.754Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T14:23:11.756Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T14:23:55.283Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T14:23:55.286Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T14:25:33.492Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T14:25:33.494Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T14:31:57.564Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T14:31:57.566Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:07:41.238Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:07:41.246Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:12:43.476Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:12:43.478Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:13:22.885Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:13:22.887Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:13:50.607Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:13:50.610Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:14:56.397Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:14:56.399Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:16:33.024Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:16:33.026Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:23:05.766Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:23:05.776Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:23:13.444Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:23:13.447Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:23:45.345Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:23:45.346Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:33:37.291Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:33:37.295Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:33:51.882Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:33:51.885Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:35:52.521Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:35:52.526Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:41:11.194Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:41:11.199Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:41:20.208Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:41:20.213Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:41:27.157Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:41:27.160Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:41:34.122Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:41:34.126Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:43:25.553Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:43:25.558Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:44:45.046Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:44:45.048Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
+[2025-05-09T16:45:46.538Z] info: Executing (default): SELECT 1+1 AS result
+[2025-05-09T16:45:46.542Z] info: Executing (default): SELECT * FROM DIM_CABECALHO_BOLETIM WHERE SK_TIPO_BOLETIM = 1
